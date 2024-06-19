@@ -9,3 +9,7 @@ let me = {
    };
    me.thisInArrow(); 
    me.thisInRegular();
+console.log("----------------###########------------------")
+const sayHello = () => console.log("hello") 
+
+sayHello()
