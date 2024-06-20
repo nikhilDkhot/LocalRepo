@@ -7,7 +7,7 @@ arr.filter((value)=>{
     }
 })
 
-console.log(arr) */
+console.log(arr) */   //in filter function there is no changes in main arr
 
 let arr = [12,45,78,56,84,55,21,33]
 
